@@ -1,5 +1,7 @@
 # Eddy
 
+[![Build Status](https://travis-ci.org/Sepia-Officinalis/eddy.svg?branch=master)](https://travis-ci.org/Sepia-Officinalis/eddy)
+
 ## What is this?
 
 This project contains an isomorphic Scala/ScalaJS interface for using Ed25519 for writing and verifying EDDSA cryptographic signatures. 
