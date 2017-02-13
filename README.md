@@ -1,6 +1,6 @@
 # Eddy
 
-[![Build Status](https://travis-ci.org/Sepia-Officinalis/eddy.svg?branch=master)](https://travis-ci.org/Sepia-Officinalis/eddy)
+[![Build Status](https://travis-ci.org/OmoikaneIO/eddy.svg?branch=master)](https://travis-ci.org/OmoikaneIO/eddy)
 
 ## What is this?
 
